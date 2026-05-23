@@ -1,0 +1,12 @@
+customer_id,name,email,age,gender,purchase_amount,purchase_date,city,phone
+101,Alice Johnson,alice@gmail.com,25,Female,1500.5,2023-12-10,New York,9876543210
+102,Bob Smith,bob@yahoo.com,32,Male,2200.0,2023-12-12,Los Angeles,9876543211
+103,Carol White,carol@outlook.com,32,Female,850.75,2023-10-15,Chicago,9876543212
+104,David Lee,david@gmail.com,45,Male,3200.0,2023-11-05,Houston,9876543213
+105,Emma Davis,emma@hotmail.com,28,Female,1727.42,2023-09-20,Phoenix,9876543214
+106,Frank Brown,frank@gmail.com,38,Male,125.0,2023-08-14,Philadelphia,9876543215
+107,Unknown,nina@gmail.com,22,Female,999.99,2023-11-30,Unknown,9876543216
+108,Grace Wilson,grace@gmail.com,32,Female,450.0,2024-01-02,San Antonio,9876543217
+109,Henry Moore,henry@gmail.com,55,Male,5500.0,2024-02-28,San Diego,9876543218
+110,Irene Clark,irene@gmail.com,41,Female,720.5,2023-07-22,Dallas,9876543219
+111,James Taylor,james@gmail.com,30,Male,1727.42,2024-03-15,San Jose,9876543220

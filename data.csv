@@ -1,0 +1,16 @@
+customer_id,name,email,age,gender,purchase_amount,purchase_date,city,phone
+101,Alice Johnson,alice@gmail.com,25,Female,1500.50,2023-12-10,New York,9876543210
+102,bob smith,BOB@YAHOO.COM,32,MALE,2200.00,"Dec 12, 2023",los angeles,(987) 654-3211
+103,CAROL WHITE,carol@outlook.com,,female,850.75,10/15/2023,CHICAGO,987-654-3212
+101,Alice Johnson,alice@gmail.com,25,Female,1500.50,2023-12-10,New York,9876543210
+104,David Lee,david@gmail.com,45,Male,3200.00,2023-11-05,Houston,9876543213
+105,Emma Davis,emma@hotmail.com,28,F,,2023-09-20,Phoenix,+91-987-654-3214
+103,CAROL WHITE,carol@outlook.com,,female,850.75,10/15/2023,CHICAGO,987-654-3212
+106,Frank Brown,frank@gmail.com,38,male,125.00,2023-08-14,philadelphia,9876543215
+107,,nina@gmail.com,22,Female,999.99,"Nov 30, 2023",,9876543216
+102,bob smith,BOB@YAHOO.COM,32,MALE,2200.00,"Dec 12, 2023",los angeles,(987) 654-3211
+108,Grace Wilson,grace@gmail.com,,Female,450.00,2024-01-02,San Antonio,9876543217
+109,Henry Moore,henry@gmail.com,55,M,5500.00,2024-02-28,San Diego,9876543218
+110,Irene Clark,irene@gmail.com,41,Female,720.50,07/22/2023,dallas,987-654-3219
+110,Irene Clark,irene@gmail.com,41,Female,720.50,07/22/2023,dallas,987-654-3219
+111,James Taylor,james@gmail.com,30,Male,,2024-03-15,San Jose,9876543220
